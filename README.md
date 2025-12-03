@@ -33,8 +33,6 @@ In this project, let's build a **Cash Withdrawal** app by applying the concepts 
 <summary>Functionality to be added</summary>
 <br/>
 
-The app must have the following functionalities
-
 - Initially, the balance should be **2000** rupees
 - When a denomination is clicked, then the respective value should be deducted from the balance available
 - The `CashWithdrawal` component receives the `denominationsList` as a prop. It consists of a list of denomination objects with the following properties in each denomination object
@@ -127,4 +125,8 @@ Use these files to complete the implementation:
 > ### _Things to Keep in Mind_
 >
 > - All components you implement should go in the `src/components` directory.
+> - 
 
+# Live Project Link 
+
+<a href="https://skrwithdrawal.ccbp.tech" target="_blank">Project Live Link</a>
