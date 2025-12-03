@@ -1,0 +1,12 @@
+.denomination-items {
+  color: white;
+  max-width: 200px;
+  border: 1px #dec0f882;
+  width: 120px;
+  height: 36px;
+  text-align: center;
+  padding: 4px;
+  cursor: pointer;
+  background-color: cornflowerblue;
+  border-radius: 8px;
+}
